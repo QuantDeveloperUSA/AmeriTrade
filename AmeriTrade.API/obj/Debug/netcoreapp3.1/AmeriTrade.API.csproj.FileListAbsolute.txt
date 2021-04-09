@@ -1,0 +1,15 @@
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netcoreapp3.1\AmeriTrade.API.exe
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netcoreapp3.1\AmeriTrade.API.deps.json
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netcoreapp3.1\AmeriTrade.API.runtimeconfig.json
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netcoreapp3.1\AmeriTrade.API.runtimeconfig.dev.json
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netcoreapp3.1\AmeriTrade.API.dll
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netcoreapp3.1\AmeriTrade.API.pdb
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netcoreapp3.1\AmeriTrade.API.csprojAssemblyReference.cache
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netcoreapp3.1\AmeriTrade.API.AssemblyInfoInputs.cache
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netcoreapp3.1\AmeriTrade.API.AssemblyInfo.cs
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netcoreapp3.1\AmeriTrade.API.csproj.CoreCompileInputs.cache
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netcoreapp3.1\AmeriTrade.API.csproj.CopyComplete
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netcoreapp3.1\AmeriTrade.API.dll
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netcoreapp3.1\AmeriTrade.API.pdb
+Z:\Arquivos\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netcoreapp3.1\AmeriTrade.API.genruntimeconfig.cache

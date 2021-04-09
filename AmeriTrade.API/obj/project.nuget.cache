@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fx1exm9LtoVH4gTnLYS76V8KJvIyG6wkXKJxqnkbd7SoZ61clR3xfhB06Fi6Sc/8Ud/HhYYEeZUIabldPx0o4w==",
+  "success": true,
+  "projectFilePath": "Z:\\Arquivos\\Projetos\\AmeriTrade\\AmeriTrade.API\\AmeriTrade.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
