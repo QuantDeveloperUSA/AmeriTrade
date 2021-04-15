@@ -1,0 +1,9 @@
+Z:\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netstandard2.0\AmeriTrade.API.deps.json
+Z:\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netstandard2.0\AmeriTrade.API.dll
+Z:\Projetos\AmeriTrade\AmeriTrade.API\bin\Debug\netstandard2.0\AmeriTrade.API.pdb
+Z:\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.csprojAssemblyReference.cache
+Z:\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.AssemblyInfoInputs.cache
+Z:\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.AssemblyInfo.cs
+Z:\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.csproj.CoreCompileInputs.cache
+Z:\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.dll
+Z:\Projetos\AmeriTrade\AmeriTrade.API\obj\Debug\netstandard2.0\AmeriTrade.API.pdb

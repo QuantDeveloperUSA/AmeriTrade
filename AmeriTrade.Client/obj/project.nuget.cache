@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WYzUj0t8svjq8kHinMLCb8BYweMYULDq5zYNdZ6IKR7j3fClNrLSmAtxjH87I3j7cyzUvpQ9ysuE1IsFrysijw==",
+  "dgSpecHash": "xzhmWTkxvYqGTPhStVtboHj6dTtiT7PgZTF3fKXz9AxHMrapGf1c6bW8lX6jVQ+17bq9UfM0C6fpa+0uzbC5Bg==",
   "success": true,
-  "projectFilePath": "Z:\\Projetos\\AmeriTrade\\AmeriTrade.API\\AmeriTrade.API.csproj",
+  "projectFilePath": "Z:\\Projetos\\AmeriTrade\\AmeriTrade.Client\\AmeriTrade.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Win\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Win\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\Win\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Win\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\Win\\.nuget\\packages\\restsharp\\106.6.5\\restsharp.106.6.5.nupkg.sha512",
     "C:\\Users\\Win\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
